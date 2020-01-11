@@ -12,7 +12,3 @@ Other review notes are available at:
 
 A Python port of the assignments is available at:
 * https://github.com/dibgerge/ml-coursera-python-assignments
-
-## Certificate
-
-[My Course Certificate](ML-certificate.pdf)
